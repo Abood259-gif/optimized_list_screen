@@ -1,4 +1,12 @@
 # optimized_list_screen
+with listview.builder:
+
+
+<img width="707" height="322" alt="image" src="https://github.com/user-attachments/assets/13d45a2d-fa15-40f1-958f-37dbff9d1ecc" />
+
+
+
+
 
 
 
